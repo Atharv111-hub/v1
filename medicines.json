@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "Paracetamol",
+    "price": 20,
+    "stock": 50,
+    "category": "Tablet",
+    "description": "Used to treat pain and fever.",
+    "expiry_date": "2026-01-31"
+  },
+  {
+    "id": 2,
+    "name": "Aspirin",
+    "price": 15,
+    "stock": 30,
+    "category": "Tablet",
+    "description": "Pain reliever and anti-inflammatory.",
+    "expiry_date": "2025-12-15"
+  },
+  {
+    "id": 3,
+    "name": "Cough Syrup",
+    "price": 60,
+    "stock": 20,
+    "category": "Syrup",
+    "description": "Relieves cough and soothes throat.",
+    "expiry_date": "2025-11-30"
+  },
+  {
+    "id": 4,
+    "name": "Vitamin C",
+    "price": 25,
+    "stock": 0,
+    "category": "Tablet",
+    "description": "Boosts immunity and overall health.",
+    "expiry_date": "2026-03-10"
+  },
+  {
+    "id": 5,
+    "name": "Antacid",
+    "price": 40,
+    "stock": 10,
+    "category": "Syrup",
+    "description": "Neutralizes stomach acid to relieve indigestion.",
+    "expiry_date": "2025-09-25"
+  },
+  {
+    "id": 6,
+    "name": "Ibuprofen",
+    "price": 22,
+    "stock": 40,
+    "category": "Tablet",
+    "description": "Reduces fever and treats pain or inflammation.",
+    "expiry_date": "2026-06-30"
+  },
+  {
+    "id": 7,
+    "name": "Cetirizine",
+    "price": 18,
+    "stock": 25,
+    "category": "Tablet",
+    "description": "Antihistamine for allergy relief.",
+    "expiry_date": "2025-10-20"
+  },
+  {
+    "id": 8,
+    "name": "Amoxicillin",
+    "price": 55,
+    "stock": 15,
+    "category": "Capsule",
+    "description": "Antibiotic used to treat bacterial infections.",
+    "expiry_date": "2026-08-15"
+  },
+  {
+    "id": 9,
+    "name": "Azithromycin",
+    "price": 65,
+    "stock": 12,
+    "category": "Tablet",
+    "description": "Antibiotic for respiratory and skin infections.",
+    "expiry_date": "2025-12-01"
+  },
+  {
+    "id": 10,
+    "name": "Diclofenac Gel",
+    "price": 35,
+    "stock": 18,
+    "category": "Gel",
+    "description": "Topical gel for relieving joint and muscle pain.",
+    "expiry_date": "2026-02-28"
+  },
+  {
+    "id": 11,
+    "name": "Loratadine",
+    "price": 24,
+    "stock": 22,
+    "category": "Tablet",
+    "description": "Non-drowsy antihistamine for allergy symptoms.",
+    "expiry_date": "2026-05-20"
+  },
+  {
+    "id": 12,
+    "name": "Metformin",
+    "price": 28,
+    "stock": 35,
+    "category": "Tablet",
+    "description": "Used to control blood sugar in type 2 diabetes.",
+    "expiry_date": "2026-04-15"
+  },
+  {
+    "id": 13,
+    "name": "Omeprazole",
+    "price": 32,
+    "stock": 27,
+    "category": "Capsule",
+    "description": "Reduces stomach acid production.",
+    "expiry_date": "2025-11-10"
+  },
+  {
+    "id": 14,
+    "name": "ORS Sachet",
+    "price": 10,
+    "stock": 60,
+    "category": "Powder",
+    "description": "Oral rehydration salts for dehydration treatment.",
+    "expiry_date": "2026-01-01"
+  },
+  {
+    "id": 15,
+    "name": "Saline Nasal Spray",
+    "price": 45,
+    "stock": 14,
+    "category": "Spray",
+    "description": "Moisturizes nasal passages and relieves congestion.",
+    "expiry_date": "2025-01-01"
+  }
+]

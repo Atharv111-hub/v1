@@ -1,0 +1,16 @@
+{
+  "Atharv": {
+    "email": "atha@gmail.com",
+    "password": "Atharv11@",
+    "role": "user"
+  },
+  "admin": {
+    "email": "admin@example.com",
+    "password": "Admin123@",
+    "role": "admin"
+  },
+  "vaibhav": {
+    "email": "abcd@gmail.com",
+    "password": "Vaibhav@123"
+  }
+}
